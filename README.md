@@ -1,4 +1,4 @@
-# COMP3021-paper-management-system
+# COMP3021 PA2: Paper Management System (Extended from PA1)
 
 #### This project implemented a paper management system, named Mini-Mendeley. It supports the following functionalities:
 - Support the creation of user accounts.
